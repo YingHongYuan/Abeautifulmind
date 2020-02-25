@@ -1,22 +1,22 @@
-
 body {
-  background-image: url("01.gif");
-  max-width: 500px;
+  background-image: url("o.jpg");
+  max-width: 1300px;
   margin: 50px auto 50px auto;
   color: #black;
-  style="front-size":50px;"arial"
+  background-color: White;
+  text-align: center;
 }
 
 h1 {
-  color: green;
+  color: Black;
+  text-align: center;
 }
 
 .heading {
   padding: 20px auto;
   margin: 60px;
   text-align: center;
-  border:solid 10px #000;
-  background-color: white;
+  background-color:white;
 
 }
 
@@ -24,55 +24,13 @@ h1 {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.p1{
-  color:red;
-}
-
-.Question1 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px;
-  background-color: White;
-  border:solid 10px #000;
+.button {
+  color: black;
+  border: none;
+  color: white;
+  padding: 30px 32px;
   text-align: center;
-}
-
-.Question2 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px;
-  background-color: White;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question3 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question4 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question5 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-h1 {
-  text-shadow: 1px 1px 1px black;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
 }
